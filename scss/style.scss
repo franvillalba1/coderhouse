@@ -1,0 +1,9 @@
+@import "../base/reset";
+@import "../abstracts/variables";
+@import "../layouts/header";
+@import "../layouts/main";
+@import "../layouts/footer";
+
+body {
+    background-color: $primary-color;
+}
